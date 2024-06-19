@@ -1,14 +1,14 @@
 
 class Car:
 
-  def __init__(self, vmax, vc, acc):
+  def __init__(self, vmax, acc):
     self.vmax = vmax
-    self.vc = vc
     self.acc = acc
   
-  def time(self, vm, vcc, ac):
-    time = (vm -vcc) /ac
-    print(time)
+  def time(self, vcc):
+    t = (self.vmax -vcc) /self.acc
+    return t
 
-car = Car(5, 2, 3)
-car.time(5, 2, 3)
+car = Car(5, 3)
+time = car.time(2)
+print(time)
