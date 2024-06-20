@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-It is a type of Machine learning used in Artificial Intelligence to train an AI. It consists of Five Steps:
+It works on concept of reward system used in Artificial Intelligence to train the models. It consists of Five Steps:
 
 ## Principle 1:
 Input/ Output System
