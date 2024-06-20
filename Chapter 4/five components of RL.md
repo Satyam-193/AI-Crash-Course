@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-It works on concept of reward system used in Artificial Intelligence to train the models. It consists of Five Steps:
+It works on concept of reward system used to train the models in Artificial Intelligence . It consists of Five Steps:
 
 ## Principle 1:
 Input/ Output System
