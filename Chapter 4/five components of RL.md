@@ -12,7 +12,7 @@ Reward System to train the AI with good or bad reward.
 AI Environment: Space where Input/Output System and reward are integrated to work on a goal.
 
 ## Principle 4:
-Markov Decision Process: It aim to integrate Ai Environment with desired goal and make sure to maximize the reward for AI 
+Markov Decision Process: It aim to integrate Ai Environment with desired goal and make sure to maximize the reward for AI. 
 
 ## Principle 5:
 Training: Deal with chosing a model, deciding parameters, taking action and giving reward based on actions, chosing different parameters, techniques to maximize the reward, and repeat again until achieved desired goal.             
